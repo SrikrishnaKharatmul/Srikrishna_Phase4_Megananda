@@ -1,0 +1,15 @@
+[0m2021.06.19 19:08:48 INFO  Started: Metals version 0.10.4 in workspace 'G:\Java Successful Projects\phase 5\Online Test Application' for client Visual Studio Code 1.57.1.[0m
+[0m2021.06.19 19:08:51 INFO  time: initialize in 3.59s[0m
+[0m2021.06.19 19:08:52 WARN  Build server is not auto-connectable.[0m
+[0m2021.06.19 19:08:52 WARN  no build tool detected in workspace 'G:\Java Successful Projects\phase 5\Online Test Application'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.06.19 19:23:09 INFO  shutting down Metals[0m
+[0m2021.06.20 16:49:48 INFO  Started: Metals version 0.10.4 in workspace 'G:\Java Successful Projects\phase 5\Online Test Application' for client Visual Studio Code 1.57.1.[0m
+[0m2021.06.20 16:49:54 INFO  time: initialize in 5.88s[0m
+[0m2021.06.20 16:49:54 WARN  Build server is not auto-connectable.[0m
+[0m2021.06.20 16:49:54 WARN  no build tool detected in workspace 'G:\Java Successful Projects\phase 5\Online Test Application'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.06.20 17:02:18 INFO  shutting down Metals[0m
+[0m2021.06.27 00:57:41 INFO  Started: Metals version 0.10.4 in workspace 'G:\Java Successful Projects\phase 5\Online Test Application' for client Visual Studio Code 1.57.1.[0m
+[0m2021.06.27 00:57:49 INFO  time: initialize in 8.7s[0m
+[0m2021.06.27 00:57:50 WARN  Build server is not auto-connectable.[0m
+[0m2021.06.27 00:57:50 WARN  no build tool detected in workspace 'G:\Java Successful Projects\phase 5\Online Test Application'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.06.27 01:01:10 INFO  shutting down Metals[0m
